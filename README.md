@@ -1,4 +1,4 @@
-### Hi Friends 👋
+### Hi 👋
 
 I’m Saurabh. I'm currently working as Solution Architect (Data & AI). I've worked on various data-centric roles with different capcity throughout my career and I love building, solutioning and learning all the cool things around Data and AI. In my spare time I run, read books, and write [blogs](https://medium.com/@saurabh2.mishra).
 
